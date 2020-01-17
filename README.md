@@ -21,7 +21,7 @@ The webfont is available and to you if you can take the demo file into _dist/_ a
 Example:
 
 CSS: 
-```
+```css
 @import '~amon-crypto-icons-font/dist/crypto-icons.css';
 ```
 HTML:
