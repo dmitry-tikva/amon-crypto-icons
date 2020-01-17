@@ -20,11 +20,11 @@ git clone https://github.com/dmitry-tikva/amon-crypto-icons.git
 The webfont is available and to you if you can take the demo file into _dist/_ as reference. 
 Example:
 
-import: 
+CSS: 
 ```
 @import '~amon-crypto-icons-font/dist/crypto-icons.css';
 ```
-usage:
+HTML:
 ```html
 <i class='crypto-icon btc'></i>
 ```
