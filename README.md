@@ -17,7 +17,14 @@ git clone https://github.com/dmitry-tikva/amon-crypto-icons.git
 ```
 
 ### WebFont
-The webfont is available and to you if you can take the demo file into _dist/_ as reference. Example:
+The webfont is available and to you if you can take the demo file into _dist/_ as reference. 
+Example:
+
+import: 
+```
+@import '~amon-crypto-icons-font/dist/crypto-icons.css';
+```
+usage:
 ```html
 <i class='crypto-icon btc'></i>
 ```
